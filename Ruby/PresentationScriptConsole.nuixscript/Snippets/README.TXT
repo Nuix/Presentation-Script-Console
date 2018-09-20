@@ -1,0 +1,1 @@
+Files with a .rb extension placed here will be listed in the "Snippets" menu of the script.
